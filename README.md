@@ -1,6 +1,6 @@
 # :sparkles: Welcome to my GitHub, I'm Piper :sparkles:
 
-I'm a Software Engineer, and have a background in illustration. I adore learning, and during 2020 Covid lockdown I studied at School of Code to change my career into tech and haven't looked back. I'm passionate about accessibility and diversity, and this has been the hallmark of my career so far - I strongly believe that a good application === accessible application, and have championed that in all of my roles. I'm also a big believer in the power of mentoring, and am a mentor of the School of Code bootcamp where I support new developers through their career changing journey. 
+I'm a Software Engineer, and have a background in illustration. I adore learning, and during 2020 Covid lockdown I studied at School of Code to change my career into tech and haven't looked back. I'm passionate about accessibility and diversity, and this has been the hallmark of my career so far - I strongly believe that a good application === an accessible application, and have championed that in all of my roles. I'm also a big believer in the power of mentoring, and am a mentor of the School of Code bootcamp where I support new developers through their career changing journey. 
 
 I'm currently loving life as a front end engineer, and have a strong interest in UI / UX design although have had previous experience full stack.
 
